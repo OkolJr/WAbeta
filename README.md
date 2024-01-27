@@ -1,2 +1,2 @@
-If you happen to see it, that means I encountered issues in my <a href="https://github.com/OkolJr/WeatherApp">official repository</a> and I have created the beta you are currently reading.<br>
+If you are reading this, that means I encountered issues in my <a href="https://github.com/OkolJr/WeatherApp">official repository</a> and I have created the beta you are currently reading.<br>
 Once I can fix it, beta will be archived and pushed to official.
