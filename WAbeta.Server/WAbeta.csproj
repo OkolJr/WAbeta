@@ -7,7 +7,7 @@
     <InvariantGlobalization>true</InvariantGlobalization>
     <SpaRoot>..\wabeta.client</SpaRoot>
     <SpaProxyLaunchCommand>npm start</SpaProxyLaunchCommand>
-    <SpaProxyServerUrl>https://localhost:4200</SpaProxyServerUrl>
+    <SpaProxyServerUrl>https://localhost:5500</SpaProxyServerUrl>
   </PropertyGroup>
 
   <ItemGroup>
